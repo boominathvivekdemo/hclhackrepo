@@ -1,11 +1,74 @@
 [
   {
     "id": 1,
-    "name": "Sample Product",
-    "description": "This is a sample product.",
-    "price": 19.99,
-    "image": "sample-product.jpg",
-    "category": "Sample Category",
+    "name": "Apple iPhone 15",
+    "description": "Latest Apple iPhone 15 with A16 Bionic chip.",
+    "price": 999.99,
+    "image": "https://m.media-amazon.com/images/I/71yzJoE7WlL._AC_SL1500_.jpg",
+    "category": "Mobiles",
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24",
+    "description": "Samsung flagship phone with stunning display.",
+    "price": 899.99,
+    "image": "https://m.media-amazon.com/images/I/81ZSn2rk9WL._AC_SL1500_.jpg",
+    "category": "Mobiles",
+    "stock": 40
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-1000XM5 Headphones",
+    "description": "Industry-leading noise canceling headphones.",
+    "price": 349.99,
+    "image": "https://m.media-amazon.com/images/I/61D4Z3yKPAL._AC_SL1500_.jpg",
+    "category": "Electronics",
+    "stock": 30
+  },
+  {
+    "id": 4,
+    "name": "Apple MacBook Air M2",
+    "description": "Apple MacBook Air with M2 chip, 13-inch.",
+    "price": 1199.99,
+    "image": "https://m.media-amazon.com/images/I/71jG+e7roXL._AC_SL1500_.jpg",
+    "category": "Laptops",
+    "stock": 20
+  },
+  {
+    "id": 5,
+    "name": "HP Pavilion 15",
+    "description": "HP Pavilion 15.6-inch FHD Laptop, 12th Gen Intel.",
+    "price": 749.99,
+    "image": "https://m.media-amazon.com/images/I/81l3rZK4lnL._AC_SL1500_.jpg",
+    "category": "Laptops",
+    "stock": 25
+  },
+  {
+    "id": 6,
+    "name": "Amazon Echo Dot (5th Gen)",
+    "description": "Smart speaker with Alexa.",
+    "price": 49.99,
+    "image": "https://m.media-amazon.com/images/I/61u48FEsQKL._AC_SL1000_.jpg",
+    "category": "Electronics",
     "stock": 100
+  },
+  {
+    "id": 7,
+    "name": "Nike Air Max 270",
+    "description": "Men's running shoes with Max Air cushioning.",
+    "price": 129.99,
+    "image": "https://m.media-amazon.com/images/I/71l1j1rNQSL._AC_UL1500_.jpg",
+    "category": "Footwear",
+    "stock": 60
+  },
+  {
+    "id": 8,
+    "name": "Adidas Ultraboost 22",
+    "description": "Women's running shoes with responsive cushioning.",
+    "price": 139.99,
+    "image": "https://m.media-amazon.com/images/I/81QFQ7N6KGL._AC_UL1500_.jpg",
+    "category": "Footwear",
+    "stock": 55
   }
 ]
